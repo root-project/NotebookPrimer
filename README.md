@@ -1,5 +1,5 @@
 # Interactive ROOT Primer
-This is a notebook based version of the [ROOT Primer](https://root.cern.ch/guides/primer)
+This is a notebook based version of the [ROOT Primer](https://root.cern/primer/)
 
 
 Translated to Notebooks by
